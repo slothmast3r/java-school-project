@@ -6,9 +6,9 @@ This repository contains a Java-based text RPG game, offering a rich and interac
 
 - **Character Creation**: Players can create and customize their characters.
 - **Combat System**: Engage in battles with opponents in the Arena with options for manual and auto-combat.
-- **Inventory Management**: Players can buy, sell, and use items like swords, armor, and health potions.
+- **Inventory Management**: Players can buy, sell, and use items like swords, sandals, and health potions.
 - **Dynamic Opponents**: Opponents in the Arena get stronger or weaker based on player performance.
-- **Shop**: A shop where players can purchase various items, including some unique and humorous ones.
+- **Shop**: A shop where players can purchase various items. 
 
 ## How to Run
 
